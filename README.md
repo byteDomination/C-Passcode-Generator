@@ -10,7 +10,11 @@ Example Usage:
 Ran with g++ on windows
 Be in repository and run the following command
 
+-to compile 
 ```
 C> g++ -o <name you want> PasswordGenerator.cpp
+```
+-to run
+```
 C> ./<name you choose>.exe
 ```
