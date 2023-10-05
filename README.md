@@ -20,5 +20,5 @@ C> g++ -o <name you want> PasswordGenerator.cpp
 
 * to run
 ```
-C> ./<name you choose>.exe
+C> .\<name you choose>.exe
 ```
